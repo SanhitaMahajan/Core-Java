@@ -1,0 +1,12 @@
+1. Create core class
+
+class - Pet ( petId, name, category, unitPrice, stocks )
+Enum - Category ( CAT, DOG, RABBIT, FISH )
+
+validations - category , unitPrice , stocks
+
+2. create user class
+--- loginId, password
+
+3. check - admin login or user login and
+    based on it display the functionality
